@@ -1,4 +1,4 @@
-# Improving Cross-Lingual Word Embeddings with Iterative Normalization
+# Iterative Normalization for Cross-Lingual Word Embeddings
 
 This repository contains implementation of the Iterative Normalization method described in the following paper:
 
