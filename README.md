@@ -2,7 +2,7 @@
 
 This repository contains implementation of the Iterative Normalization method described in the following paper:
 
-Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka, Jordan Boyd-Graber. [_Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization_](https://arxiv.org/abs/1906.01622).
+Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka, Jordan Boyd-Graber. [_Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization_](https://arxiv.org/abs/1906.01622). ACL 2020.
 
 If you want to train cross-lingual word embeddings with a projection-based method (such as [MUSE](https://github.com/facebookresearch/MUSE)), we recommend applying Iterative Normalization on monolingual embeddings before learning the alignment. This preprocessing step consistently improves word translation accuracy, sometimes by a huge margin.
 
