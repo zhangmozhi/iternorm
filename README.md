@@ -1,6 +1,6 @@
 # Iterative Normalization for Cross-Lingual Word Embeddings
 
-This repository contains implementation of the Iterative Normalization method described in the our ACL 2019 paper:
+This repository implements the Iterative Normalization method from our ACL 2019 paper:
 
 Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka, Jordan Boyd-Graber. [_Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization_](https://arxiv.org/abs/1906.01622).
 
@@ -20,6 +20,7 @@ If you find it helpful, please cite:
     Title = {Are Girls Neko or Sh\={o}jo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization},
     Author = {Mozhi Zhang and Keyulu Xu and Ken-ichi Kawarabayashi and Stefanie Jegelka and Jordan Boyd-Graber},
     Booktitle = {Proceedings of the Association for Computational Linguistics},
+    doi = "10.18653/v1/P19-1307",
     Year = {2019}
 }
 ```
